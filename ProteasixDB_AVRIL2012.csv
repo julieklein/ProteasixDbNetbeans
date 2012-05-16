@@ -1,0 +1,9 @@
+CS_ID,P_NL_Name,P_Symbol,P_UniprotID,P_EC_Number,P_Taxon,S_NL_Name,S_Symbol,S_UniprotID,S_Taxon,Cleavage_Site,P1_Position,P1prime_Position,P1_Sequence,P1prime_Sequence,External_Link,PMID,Comment,Curation_Status,Creation_Date
+,beta-secretase,BACE2,Q9Y5Z0,3.4.23.45,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,EVKMDAEF,671,672,M,D,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,caspase-6; when associated with variant 670-N-L-671,CASP6,P55212,3.4.22.59,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,VKMDAEFR,672,673,D,A,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,alpha-secretase,BACE1,P56817,3.4.23.46,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,HHQKLVFF,687,688,K,L,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,theta-secretase,BACE2,Q9Y5Z0,3.4.23.45,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,KLVFFAED,690,691,F,F,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,gamma-secretase; site 1,PSENEN,Q9NZ42,n.d.,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,GGVVIATV,711,712,V,I,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,gamma-secretase; site 2,PSENEN,Q9NZ42,n.d.,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,VVIATVIV,713,714,A,T,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,gamma-secretase; site 3,PSENEN,Q9NZ42,n.d.,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,VITLVMLK,720,721,L,V,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
+,caspase-6; caspase-8 or caspase-9,CASP9,P55211,3.4.22.62,Homo sapiens,Amyloid beta A4 protein,APP,P05067,Homo sapiens,VEVDAAVT,739,740,D,A,http://www.uniprot.org/uniprot/P05067,-,-,-,30-04-2012
